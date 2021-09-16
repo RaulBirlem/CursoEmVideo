@@ -1,0 +1,2 @@
+# CursoEmVideoExerises
+exercises_done_by_me
